@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="description_hint">Описание</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="noteFragmentActionBarTitle">Заметка</string>
+    <string name="delete_all_notes">Удалить все заметки</string>
+    <string name="title_dialog">Подтверждение</string>
+    <string name="message_dialog">Вы деействительно хотите удалить все заметки?</string>
+    <string name="text_positive_button_dialog">Да</string>
+    <string name="text_negative_button_dialog">Отмена</string>
+    <string name="search_notes">Искать заметки</string>
+    <string name="query_hint_searchView">Искать</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
